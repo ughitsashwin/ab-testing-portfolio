@@ -35,6 +35,7 @@ shows no meaningful improvement over the original.
 
 ## Project Structure
 
+```text
 ab_testing_portfolio/
 ├── data/
 │   ├── raw/               ← original dataset (not tracked by Git)
@@ -47,6 +48,7 @@ ab_testing_portfolio/
 │   └── ab_test_result.png             ← test result chart
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
