@@ -1,0 +1,15 @@
+# Virtual environment — too large, not needed on GitHub
+venv/
+
+# Jupyter notebook checkpoints (auto-generated clutter)
+.ipynb_checkpoints/
+
+# macOS system file
+.DS_Store
+
+# Large data files (we'll explain how to handle these separately)
+data/raw/
+
+# Python cache files
+__pycache__/
+*.pyc
